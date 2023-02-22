@@ -1,0 +1,13 @@
+current directory: /home/moringa/code/labs/phase3/phase-3-active-record-translating-from-orm-to-ar/vendor/bundle/ruby/2.7.0/gems/json-1.8.6/ext/json
+/home/moringa/.rbenv/versions/2.7.4/bin/ruby -I /home/moringa/.rbenv/versions/2.7.4/lib/ruby/2.7.0 -r ./siteconf20230222-12979-ec23pd.rb extconf.rb
+creating Makefile
+
+current directory: /home/moringa/code/labs/phase3/phase-3-active-record-translating-from-orm-to-ar/vendor/bundle/ruby/2.7.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" clean
+
+current directory: /home/moringa/code/labs/phase3/phase-3-active-record-translating-from-orm-to-ar/vendor/bundle/ruby/2.7.0/gems/json-1.8.6/ext/json
+make "DESTDIR="
+make: Nothing to be done for 'all'.
+
+current directory: /home/moringa/code/labs/phase3/phase-3-active-record-translating-from-orm-to-ar/vendor/bundle/ruby/2.7.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" install
